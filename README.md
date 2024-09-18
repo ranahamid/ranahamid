@@ -2,6 +2,11 @@
 <h3 align="center">Lead Software Engineer at MyMedicalHUB || Prime Minister Gold Medalist || University Gold Medalist || ITEE FE (JAICA)</h3>
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ranahamid)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ranahamid/contributions?format=svg&private=true)  
+
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 # 📊 GitHub Stats:
